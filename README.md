@@ -1,5 +1,5 @@
 # Maya Essential Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Maya Essential Training](https://www.tertiarycourses.com.sg/maya-essential-training-in-singapore.html) course. 
 
